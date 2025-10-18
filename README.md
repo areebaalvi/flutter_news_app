@@ -1,16 +1,61 @@
-# news_app
 
-A new Flutter project.
+# News App In Flutter With API
 
-## Getting Started
+This News App is a modern Flutter application that delivers the latest trending and personalized news directly to users in a clean, elegant, and user-friendly interface.
+It provides real-time updates from multiple categories such as technology, business, and entertainment etc.
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+ Hottest News Section – Stay updated with the most trending headlines.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Personalized News Feed – Curated “News For You” based on your interests.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Beautiful UI Design – Clean and minimal interface for a smooth reading
+
+## Tech Stack
+
+**Framework:** Flutter (Dart)
+
+**Architecture:** Widget-based clean UI design
+
+**Data Source:** News API integration
+
+**Server:** News.org api
+
+**State Management:** SetState / Provider (as per project structure)
+
+## Preview
+
+A glimpse of the app UI (Pixel 7 emulator):
+Shows the Hottest News and News For You sections with smooth scrolling and card-based design.
+
+
+## APP Screenshots
+
+![App Screenshot](https://i.imghippo.com/files/HryQ6280pI.png)
+
+
+![App Screenshot](https://i.imghippo.com/files/CEMy6026XJk.png)
+
+
+![App Screenshot](https://i.imghippo.com/files/XyDc1466XdQ.png)
+
+
+![App Screenshot](https://i.imghippo.com/files/VWY9972NRk.png)
+
+
+![App Screenshot](https://i.imghippo.com/files/HuvO8024eAU.png)
+
+
+![App Screenshot](https://i.imghippo.com/files/NmJm6004Qe.png)
+
+
+![App Screenshot](https://i.imghippo.com/files/dYr4306YwU.png)
+
+
+
+
+## Authors
+
+- [@Areeba Alvi](https://github.com/areebaalvi)
+
