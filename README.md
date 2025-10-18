@@ -12,7 +12,7 @@ It provides real-time updates from multiple categories such as technology, busin
 
  Beautiful UI Design – Clean and minimal interface for a smooth reading
 
- <a href="https://github.com/areebaalvi/flutter_news_app/releases/download/news_app/news.app.apk">![App Screenshot](https://i.imghippo.com/files/fw9823PBM.png)</a>
+ <a href="https://github.com/areebaalvi/flutter_news_app/releases/download/news_app/News.App.apk">![App Screenshot](https://i.imghippo.com/files/fw9823PBM.png)</a>
 
 ## Tech Stack
 
