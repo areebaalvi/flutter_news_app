@@ -12,6 +12,8 @@ It provides real-time updates from multiple categories such as technology, busin
 
  Beautiful UI Design – Clean and minimal interface for a smooth reading
 
+ <a href="">![App Screenshot](https://i.imghippo.com/files/fw9823PBM.png)</a>
+
 ## Tech Stack
 
 **Framework:** Flutter (Dart)
